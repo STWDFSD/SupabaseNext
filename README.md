@@ -15,8 +15,4 @@ This repo is meant to be an **example** only. Please feel free to fork it and ma
 
 ## Author
 
-[Mykhaylo Ryechkin](https://github.com/STWDFSD)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+[F-9-S](https://github.com/STWDFSD)
